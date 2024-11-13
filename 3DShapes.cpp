@@ -1,8 +1,3 @@
-#include <stdio.h>
-#include <cmath>
-#include <cstring>
-#include <chrono>
-#include <thread>
 #include <vector>
 
 // Struct for a point in 3D space
